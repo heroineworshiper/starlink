@@ -1,0 +1,20 @@
+What you'll find here:
+
+starlink.FCStd: the master model for freecad
+starlink.3mf: the cura file with the right orientations & settings
+
+It is printed in an orientation which gives a simulated brushed metal on
+all the sides
+
+
+TODO:
+
+Tabs for making the corners stay together.  The printing process
+tends to warp the corners.
+
+Stand.
+
+LED hole.
+
+Grey/white segments made out of different colors
+
