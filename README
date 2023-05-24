@@ -15,6 +15,10 @@ starlink.3mf: the cura file with the right orientations & settings
 It is printed in an orientation which gives a simulated brushed metal on
 all the sides
 
+starlink2.FCStd: 3 sided enclosure very loosely based on the starlink 2
+router
+
+
 
 TODO:
 
